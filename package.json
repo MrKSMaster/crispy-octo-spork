@@ -2,18 +2,18 @@
   "name": "ksm-personal",
   "version": "1.0.0",
   "description": "My Personal Website",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MrKSMaster/ksm-personal.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Kourosh Sadr Momtaz",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MrKSMaster/ksm-personal/issues"
   },
-  "homepage": "https://github.com/MrKSMaster/ksm-personal#readme"
+  "homepage": "https://github.com/MrKSMaster/ksm-personal#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
 }
