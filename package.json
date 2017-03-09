@@ -14,6 +14,7 @@
   "homepage": "https://github.com/MrKSMaster/ksm-personal#readme",
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
     "jquery": "^3.1.1"
   }
 }
